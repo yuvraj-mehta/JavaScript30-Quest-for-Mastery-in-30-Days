@@ -1,0 +1,66 @@
+body{
+  background-color: rgb(242, 0, 255);
+}
+
+#button1 {
+  margin: 0.5rem;
+}
+
+/* .imgParent {
+  display: flex;
+  flex-direction: column;
+} */
+
+#img {
+  height: 25rem;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+/* #button2 {
+  width: 10rem;
+  margin: 2% auto;
+} */
+
+#button1 {
+  margin: 0.5rem;
+  background-color: #fff;
+  color: #000;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.25rem;
+  transition: background-color 0.3s ease;
+}
+
+#button1:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+#button2 {
+  width: 24.22rem;
+  margin: 2% auto;
+  background-color: #fff;
+  color: #000;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.25rem;
+  transition: background-color 0.3s ease;
+}
+
+
+
+#div1{
+  background-color: yellow;
+  height: 6rem;
+  width: 6rem;
+  cursor: pointer;
+}
+
+#inp, #inp2{
+  width: 12.4rem;
+  padding: 0.2rem;
+  font-size: 1rem;
+  margin: 1rem;
+  margin-left: 0%;
+}
